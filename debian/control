@@ -1,6 +1,7 @@
 Source: gst-perf
 Priority: optional
-Maintainer: RidgeRun Developers <support@ridgerun.com>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: RidgeRun Developers <support@ridgerun.com>
 Build-Depends: debhelper-compat (= 12), devscripts
 Standards-Version: 4.5.0
 Section: utils

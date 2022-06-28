@@ -2,8 +2,7 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: gst-perf
 Source: <https://github.com/RidgeRun/gst-perf>
 
-Files:     plugins/gstperf.h
-           plugins/gstperf.c
+Files:     *
 Copyright: 2019 RidgeRun, LLC (http://www.ridgerun.com)
 License:   LGPL-2.0+
 

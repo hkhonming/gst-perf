@@ -1,9 +1,13 @@
-gst-perf (0.3.1-1) UNRELEASED; urgency=medium
+gst-perf (0.3.1-1ubuntu1) jammy; urgency=medium
 
+  [ RidgeRun Engineering ]
   * Fix readme
 
- -- RidgeRun Engineering <support@ridgerun.com>  Wed, 05 Jan 2021 11:17:00  -0600
+  [ Hon Ming Hui ]
+  * Bump debian files to latest versions.
+  * Fixed some lintian warnings
 
+ -- Hon Ming Hui <honming.hui@canonical.com>  Tue, 28 Jun 2022 18:56:20 +0800
 
 gst-perf (0.3.0-1) UNRELEASED; urgency=medium
 
