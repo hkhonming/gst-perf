@@ -4,6 +4,7 @@
 # SPDX-License-Identifier: LGPL-2.0-or-later
 
 export DH_ALWAYS_EXCLUDE=*.a:*.la
+export DEB_BUILD_MAINT_OPTIONS = hardening=+all
 
 %:
 	dh $@
